@@ -3005,9 +3005,6 @@ input, select, textarea {
 					font-size: 1.25em;
 				}
 
-					#header h1 br {
-						display: none;
-					}
 
 				#header > .inner {
 					margin-bottom: 0;
@@ -3040,9 +3037,7 @@ input, select, textarea {
 
 		/* Basic */
 
-			h1 br, h2 br, h3 br, h4 br, h5 br, h6 br {
-				display: none;
-			}
+
 
 		/* List */
 
@@ -3069,9 +3064,7 @@ input, select, textarea {
 					font-size: 1.75em;
 				}
 
-					#header h1 br {
-						display: inline;
-					}
+
 
 		/* Footer */
 
@@ -3204,9 +3197,6 @@ input, select, textarea {
 				padding: 4.5em 1.5em;
 			}
 
-				#header h1 br {
-					display: none;
-				}
 
 		/* Footer */
 
